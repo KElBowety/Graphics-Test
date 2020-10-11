@@ -30,7 +30,7 @@ int main() {
 		glClear(GL_COLOR_BUFFER_BIT);
 
 		//glPushMatrix();
-		glRotatef(1.5f, 0.0f, 0.0f, 1.0f);
+		glRotatef(1.0f, 0.0f, 0.0f, 1.0f);
 
 		glBegin(GL_TRIANGLES);
 		glColor3f(0.0f, 1.0f, 0.0f);
